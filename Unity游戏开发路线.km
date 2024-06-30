@@ -1,0 +1,296 @@
+{
+    "root": {
+        "data": {
+            "id": "d2d4fbkafxc0",
+            "created": 1719727231339,
+            "text": "Unity学习路线"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d2d4gjj2mlc0",
+                    "created": 1719727327044,
+                    "text": "基础理论"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2d4hlahixs0",
+                            "created": 1719727409243,
+                            "text": "数据结构和算法"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4hp2w2a80",
+                            "created": 1719727417491,
+                            "text": "设计模式"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4hqzg8vk0",
+                            "created": 1719727421636,
+                            "text": "计算机网络"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4htrj0so0",
+                            "created": 1719727427687,
+                            "text": "计算机图形学"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4hwqy5kg0",
+                            "created": 1719727434183,
+                            "text": "操作系统"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4hyggxpc0",
+                            "created": 1719727437903,
+                            "text": "编译原理"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2d4gmn9ti00",
+                    "created": 1719727333828,
+                    "text": "基础技能"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2d4i3di8kg0",
+                            "created": 1719727448607,
+                            "text": "C#"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4i59esjs0",
+                            "created": 1719727452713,
+                            "text": "unity"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2d4gxihey80",
+                    "created": 1719727357484,
+                    "text": "进阶必备"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2d4i8wlru80",
+                            "created": 1719727460646,
+                            "text": "UI系统"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2d4ic83fhs0",
+                                    "created": 1719727467871,
+                                    "text": "GUI"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4ifpzf4o0",
+                                    "created": 1719727475483,
+                                    "text": "UGUI"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4ihm6bt40",
+                                    "created": 1719727479607,
+                                    "text": "NGUI"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4iiz5y8w0",
+                                    "created": 1719727482569,
+                                    "text": "FairyGUI"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4jelwetc0",
+                            "created": 1719727551424,
+                            "text": "热更新技术"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2d4jjhn7ls0",
+                                    "created": 1719727562050,
+                                    "text": "Lua热更新"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4jmov4bs0",
+                                    "created": 1719727569017,
+                                    "text": "ILRuntime热更新"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4jvwswdk0",
+                            "created": 1719727589088,
+                            "text": "平台相关"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2d4jz5m8r40",
+                                    "created": 1719727596152,
+                                    "text": "IOS、Android 打包"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4k5u7jq00",
+                                    "created": 1719727610699,
+                                    "text": "IOS、Anfroid SDK 接入"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4kczj7ps0",
+                            "created": 1719727626259,
+                            "text": "网络游戏开发"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2d4kgw0kgo0",
+                                    "created": 1719727634753,
+                                    "text": "短连接"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4km4zq8w0",
+                                    "created": 1719727646180,
+                                    "text": "长连接"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2d4hb49kco0",
+                    "created": 1719727387099,
+                    "text": "主程之路"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2d4kp6mv8g0",
+                            "created": 1719727652809,
+                            "text": "游戏框架设计"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4kyjposo0",
+                            "created": 1719727673191,
+                            "text": "编辑器开发"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2d4l353u800",
+                                    "created": 1719727683192,
+                                    "text": "unity 内置编辑器开发"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4l769ua00",
+                                    "created": 1719727691970,
+                                    "text": "通用编辑器开发"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4ldbj0zc0",
+                            "created": 1719727705348,
+                            "text": "优化技巧"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2d4lgqjig00",
+                                    "created": 1719727712786,
+                                    "text": "算法优化"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2d4lij51200",
+                                    "created": 1719727716692,
+                                    "text": "内存优化"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2d4ll58tmw0",
+                            "created": 1719727722382,
+                            "text": "Shader开发"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "classic-compact",
+    "version": "1.4.43"
+}
